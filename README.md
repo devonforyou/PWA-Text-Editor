@@ -6,6 +6,7 @@ Our task this week is to build a text editor that runs in the browser. The app i
 
 We will start with an existing app and implement methods for getting and storing data in an IndexedDB database by using a package called idb, which is a lightweight wrapper around the IndexedDB API. This has methods that are useful for storing and retrieving data.
 
+Link to deployed application: https://edityourbrowser-5372121bdeb0.herokuapp.com/
 
 ## Main Technologies Used
 [node.js v 20.5.0 LTS](https://node.js.org/) - Node.js® is an open-source, cross-platform JavaScript runtime environment.
